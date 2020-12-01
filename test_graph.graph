@@ -1,0 +1,3 @@
+iron_ore -> iron_ingot -> iron_plate -> reinforced_plate
+iron_ingot -> iron_rod -> screw -> reinforced_plate
+
